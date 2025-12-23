@@ -24,7 +24,7 @@ This project implements three image enhancement pipelines for OCT images and pro
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/oct-enhancement.git
+https://github.com/GavasHaluk/oct_enhancement_for_optical_coherence_tomography.git
 cd oct-enhancement
 pip install -r requirements.txt
 ```
